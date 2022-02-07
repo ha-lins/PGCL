@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e13494-d5fc-4d46-af5c-3bb2d05c65e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PGCL" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tTWkfTi6QUtHmrIBrcFK3Dypw5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="D:/桌面/nips/Supplementary Material" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop tools\Pycharm\PGCL\unsupervised_TU" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\桌面\nips\Supplementary Material" />
+      <recent name="\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pgcl_sr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PGCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pgcl_sr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pgcl_sr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e13494-d5fc-4d46-af5c-3bb2d05c65e5" name="Default Changelist" comment="" />
+      <created>1622793703904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622793703904</updated>
+      <workItem from="1622793705217" duration="5133000" />
+      <workItem from="1625326008834" duration="1296000" />
+      <workItem from="1625406651686" duration="29000" />
+      <workItem from="1629040052729" duration="5461000" />
+      <workItem from="1629122532293" duration="9000" />
+      <workItem from="1629253174495" duration="12764000" />
+      <workItem from="1629340445532" duration="12506000" />
+      <workItem from="1629430686560" duration="1858000" />
+      <workItem from="1629530056259" duration="11000" />
+      <workItem from="1629730584629" duration="1537000" />
+      <workItem from="1629786409784" duration="5959000" />
+      <workItem from="1629822299817" duration="18000" />
+      <workItem from="1629879635752" duration="7726000" />
+      <workItem from="1630046831021" duration="1757000" />
+      <workItem from="1630127052416" duration="3958000" />
+      <workItem from="1630463721720" duration="22785000" />
+      <workItem from="1630721996477" duration="14000" />
+      <workItem from="1631086559708" duration="5274000" />
+      <workItem from="1632822343032" duration="15122000" />
+      <workItem from="1633846919775" duration="3665000" />
+      <workItem from="1634281106591" duration="2232000" />
+      <workItem from="1634632339047" duration="20633000" />
+      <workItem from="1635931421457" duration="1328000" />
+      <workItem from="1636095107703" duration="3981000" />
+      <workItem from="1638846462756" duration="83000" />
+      <workItem from="1638846761713" duration="828000" />
+      <workItem from="1638851275525" duration="38891000" />
+      <workItem from="1639208550177" duration="41920000" />
+      <workItem from="1639620354613" duration="106444000" />
+      <workItem from="1641295141470" duration="1180000" />
+      <workItem from="1641296752609" duration="27019000" />
+      <workItem from="1642560009195" duration="10926000" />
+      <workItem from="1644207669607" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="135" key="#Deployment" timestamp="1644207956274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="313" y="119" key="#Deployment/0.0.1440.920@0.0.1440.920" timestamp="1641298672520" />
+    <state x="417" y="135" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1644207956274" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639209657232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639209657232" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1642587757222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642587757222" />
+    <state width="1877" height="456" key="GridCell.Tab.0.bottom" timestamp="1639620330118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="456" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330118" />
+    <state width="1877" height="456" key="GridCell.Tab.0.center" timestamp="1639620330118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="456" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330118" />
+    <state width="1877" height="456" key="GridCell.Tab.0.left" timestamp="1639620330118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="456" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330118" />
+    <state width="1877" height="456" key="GridCell.Tab.0.right" timestamp="1639620330118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="456" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330118" />
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom" timestamp="1639620330114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330114" />
+    <state width="1877" height="355" key="GridCell.Tab.1.center" timestamp="1639620330113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330113" />
+    <state width="1877" height="355" key="GridCell.Tab.1.left" timestamp="1639620330113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330113" />
+    <state width="1877" height="355" key="GridCell.Tab.1.right" timestamp="1639620330114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639620330114" />
+    <state x="540" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1642560009799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="405" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1641296753461" />
+    <state x="540" y="321" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1642560009799" />
+    <state x="887" y="343" key="ftp.server.browser" timestamp="1644207954532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="303" key="ftp.server.browser/0.0.1440.920@0.0.1440.920" timestamp="1641297063634" />
+    <state x="887" y="343" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1644207954532" />
+    <state x="787" y="413" key="publish.login" timestamp="1644207702408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="365" key="publish.login/0.0.1440.920@0.0.1440.920" timestamp="1641296839340" />
+    <state x="787" y="413" key="publish.login/0.0.1920.1040@0.0.1920.1040" timestamp="1644207702408" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unsupervised_TU/model.py</url>
+          <line>260</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unsupervised_TU/model.py</url>
+          <line>271</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PGCL$pgcl_sr.coverage" NAME="pgcl_sr Coverage Results" MODIFIED="1639320847100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

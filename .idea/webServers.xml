@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a6cc5e68-94fc-446e-9bbf-aa62baf0113b" name="liuchen" url="http://172.18.242.170">
+        <fileTransfer host="172.18.242.170" port="443" rootFolder="/home/liuchen/Projects/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="443" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6a8236e0-9e9d-4b3b-8dab-b3183d0161eb" name="su02" url="http://121.46.19.2">
+        <fileTransfer host="121.46.19.2" port="20847" rootFolder="/mnt/date/linshuai" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="20847" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
