@@ -1,4 +1,4 @@
-#Prototypical Graph Contrastive Learning
+# Prototypical Graph Contrastive Learning
 
 The code of PGCL in the unsupervised setting.
 
