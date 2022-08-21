@@ -1,4 +1,4 @@
-#Prototypical Graph Contrastive Learning
+# Prototypical Graph Contrastive Learning
 
 *Code to be further cleaned...*
 
