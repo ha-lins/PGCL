@@ -15,16 +15,12 @@ This might leads to some inconsistent results with those in the paper.
 ## Training & Evaluation
 ### Pre-training: ###
 ```
-cd ./bio
-python pretrain_graphcl.py --aug1 random --aug2 random
 cd ./chem
-python pretrain_graphcl.py --aug1 random --aug2 random
+python pgcl_sr.py --aug1 dropN --aug2 permE
 ```
 
 ### Finetuning: ###
 ```
-cd ./bio
-./finetune.sh
 cd ./chem
 ./run.sh
 ```
@@ -33,4 +29,4 @@ Results will be recorded in ```result.log```.
 
 ## Acknowledgements
 
-The backbone implementation is reference to https://github.com/snap-stanford/pretrain-gnns.
+The training and evaluation pipeline is referred from GraphCL [Neurips 2020]. The backbone implementation is reference to https://github.com/snap-stanford/pretrain-gnns.
