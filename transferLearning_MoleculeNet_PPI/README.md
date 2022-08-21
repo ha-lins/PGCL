@@ -1,3 +1,5 @@
+*Code to be further cleaned...*
+
 ## Dependencies & Dataset
 
 Please refer to https://github.com/snap-stanford/pretrain-gnns#installation for environment setup and https://github.com/snap-stanford/pretrain-gnns#dataset-download to download dataset.
