@@ -1,6 +1,6 @@
 #Prototypical Graph Contrastive Learning
 
-Submitted to NeurIPS 2021.
+The code of PGCL in the unsupervised setting.
 
 ## Dependencies
 
